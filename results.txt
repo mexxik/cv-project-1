@@ -1,0 +1,153 @@
+CPU 8 MSE:
+--------------------------------------------------------------------------
+Epoch: 1, last train loss: inf, last valid loss: inf, best valid loss: inf
+validating batch: 77/77, current loss: 2256983552.00000000--------------------------------------------------------------------------
+Epoch: 2, last train loss: 108909340049198.219, last valid loss: 213946982.989, best valid loss: 213946982.989
+validating batch: 77/77, current loss: 0.76197824.000000--------------------------------------------------------------------------
+Epoch: 3, last train loss: 3109004110.526, last valid loss: 38238656.769, best valid loss: 38238656.769
+validating batch: 77/77, current loss: 0.7738704.00000--------------------------------------------------------------------------
+Epoch: 4, last train loss: 295252914.429, last valid loss: 8921152.747, best valid loss: 8921152.747
+validating batch: 77/77, current loss: 0.7966928.000--------------------------------------------------------------------------
+Epoch: 5, last train loss: 25401565.607, last valid loss: 0.752, best valid loss: 0.752
+validating batch: 77/77, current loss: 0.7389072.0000--------------------------------------------------------------------------
+Epoch: 6, last train loss: 81704542.128, last valid loss: 0.742, best valid loss: 0.742
+validating batch: 77/77, current loss: 0.759106624.000--------------------------------------------------------------------------
+Epoch: 7, last train loss: 231325958.116, last valid loss: 0.729, best valid loss: 0.729
+validating batch: 77/77, current loss: 0.767--------------------------------------------------------------------------
+Epoch: 8, last train loss: 2.448, last valid loss: 0.729, best valid loss: 0.729
+validating batch: 77/77, current loss: 0.77264960.000--------------------------------------------------------------------------
+Epoch: 9, last train loss: 6755600.170, last valid loss: 0.727, best valid loss: 0.727
+validating batch: 77/77, current loss: 0.726--------------------------------------------------------------------------
+Epoch: 10, last train loss: 2.450, last valid loss: 0.727, best valid loss: 0.727
+validating batch: 77/77, current loss: 0.817216.000--------------------------------------------------------------------------
+Epoch: 11, last train loss: 3722588.044, last valid loss: 0.724, best valid loss: 0.724
+validating batch: 77/77, current loss: 0.736--------------------------------------------------------------------------
+Epoch: 12, last train loss: 2.418, last valid loss: 0.723, best valid loss: 0.723
+validating batch: 77/77, current loss: 0.7340208.000--------------------------------------------------------------------------
+Epoch: 13, last train loss: 2395132.689, last valid loss: 0.722, best valid loss: 0.722
+validating batch: 77/77, current loss: 0.697--------------------------------------------------------------------------
+Epoch: 14, last train loss: 2.386, last valid loss: 0.721, best valid loss: 0.721
+validating batch: 77/77, current loss: 0.684--------------------------------------------------------------------------
+Epoch: 15, last train loss: 2.400, last valid loss: 0.719, best valid loss: 0.719
+validating batch: 77/77, current loss: 0.825--------------------------------------------------------------------------
+Epoch: 16, last train loss: 2.401, last valid loss: 0.718, best valid loss: 0.718
+validating batch: 77/77, current loss: 0.749--------------------------------------------------------------------------
+Epoch: 17, last train loss: 2.398, last valid loss: 0.715, best valid loss: 0.715
+validating batch: 77/77, current loss: 0.715--------------------------------------------------------------------------
+Epoch: 18, last train loss: 2.393, last valid loss: 0.713, best valid loss: 0.713
+validating batch: 77/77, current loss: 0.759--------------------------------------------------------------------------
+Epoch: 19, last train loss: 2.389, last valid loss: 0.711, best valid loss: 0.711
+validating batch: 77/77, current loss: 0.69700.000--------------------------------------------------------------------------
+Epoch: 20, last train loss: 98156.265, last valid loss: 0.706, best valid loss: 0.706
+validating batch: 77/77, current loss: 0.7088032.000--------------------------------------------------------------------------
+Epoch: 21, last train loss: 684780.537, last valid loss: 0.698, best valid loss: 0.698
+validating batch: 77/77, current loss: 0.7371385856.000--------------------------------------------------------------------------
+Epoch: 22, last train loss: 1030349817.504, last valid loss: 0.764, best valid loss: 0.698
+validating batch: 77/77, current loss: 0.776--------------------------------------------------------------------------
+Epoch: 23, last train loss: 2.440, last valid loss: 0.758, best valid loss: 0.698
+validating batch: 77/77, current loss: 0.764
+stopping early
+
+
+CPU 128 MSE:
+--------------------------------------------------------------------------
+Epoch: 1, last train loss: inf, last valid loss: inf, best valid loss: inf
+validating batch: 7/7, current loss: 19.98556.00000000000--------------------------------------------------------------------------
+Epoch: 2, last train loss: 732621975770702.625, last valid loss: 90452050.535, best valid loss: 90452050.535
+validating batch: 7/7, current loss: 22.973408.00000--------------------------------------------------------------------------
+Epoch: 3, last train loss: 1122316224.634, last valid loss: 39934644.688, best valid loss: 39934644.688
+validating batch: 7/7, current loss: 23.31968.00000--------------------------------------------------------------------------
+Epoch: 4, last train loss: 732881318.021, last valid loss: 9909921.087, best valid loss: 9909921.087
+validating batch: 7/7, current loss: 23.41064.00000--------------------------------------------------------------------------
+Epoch: 5, last train loss: 248858833.839, last valid loss: 8235529.186, best valid loss: 8235529.186
+validating batch: 7/7, current loss: 23.30052.0000--------------------------------------------------------------------------
+Epoch: 6, last train loss: 84447132.321, last valid loss: 6033798.886, best valid loss: 6033798.886
+validating batch: 7/7, current loss: 23.41464.000--------------------------------------------------------------------------
+Epoch: 7, last train loss: 944864.054, last valid loss: 5000714.903, best valid loss: 5000714.903
+validating batch: 7/7, current loss: 23.30978.0000--------------------------------------------------------------------------
+Epoch: 8, last train loss: 58524352.133, last valid loss: 3082831.174, best valid loss: 3082831.174
+validating batch: 7/7, current loss: 23.33553.000--------------------------------------------------------------------------
+Epoch: 9, last train loss: 5999702.198, last valid loss: 2376527.605, best valid loss: 2376527.605
+validating batch: 7/7, current loss: 23.4311.0000--------------------------------------------------------------------------
+Epoch: 10, last train loss: 19776753.331, last valid loss: 940903.046, best valid loss: 940903.046
+validating batch: 7/7, current loss: 23.3224160.000--------------------------------------------------------------------------
+Epoch: 11, last train loss: 185587354.917, last valid loss: 23.369, best valid loss: 23.369
+validating batch: 7/7, current loss: 23.378--------------------------------------------------------------------------
+Epoch: 12, last train loss: 66.679, last valid loss: 23.376, best valid loss: 23.369
+validating batch: 7/7, current loss: 23.369--------------------------------------------------------------------------
+Epoch: 13, last train loss: 66.252, last valid loss: 23.375, best valid loss: 23.369
+validating batch: 7/7, current loss: 23.38780.000
+stopping early
+
+
+GPU 8 MSE:
+--------------------------------------------------------------------------
+Epoch: 1, last train loss: inf, last valid loss: inf, best valid loss: inf
+validating batch: 97/97, current loss: 0.72366240.00000000--------------------------------------------------------------------------
+Epoch: 2, last train loss: 107926874895907.562, last valid loss: 266839340.948, best valid loss: 266839340.948
+validating batch: 97/97, current loss: 0.75346688.00000--------------------------------------------------------------------------
+Epoch: 3, last train loss: 879060776.984, last valid loss: 72108729.480, best valid loss: 72108729.480
+validating batch: 97/97, current loss: 0.8814192.000--------------------------------------------------------------------------
+Epoch: 4, last train loss: 623984.474, last valid loss: 0.742, best valid loss: 0.742
+validating batch: 97/97, current loss: 0.818721344.000--------------------------------------------------------------------------
+Epoch: 5, last train loss: 86203940.803, last valid loss: 0.743, best valid loss: 0.742
+validating batch: 97/97, current loss: 0.712--------------------------------------------------------------------------
+Epoch: 6, last train loss: 2.512, last valid loss: 0.741, best valid loss: 0.741
+validating batch: 97/97, current loss: 0.850--------------------------------------------------------------------------
+Epoch: 7, last train loss: 2.503, last valid loss: 0.741, best valid loss: 0.741
+validating batch: 97/97, current loss: 0.702--------------------------------------------------------------------------
+Epoch: 8, last train loss: 2.483, last valid loss: 0.739, best valid loss: 0.739
+validating batch: 97/97, current loss: 0.699--------------------------------------------------------------------------
+Epoch: 9, last train loss: 2.483, last valid loss: 0.738, best valid loss: 0.738
+validating batch: 97/97, current loss: 0.873--------------------------------------------------------------------------
+Epoch: 10, last train loss: 2.496, last valid loss: 0.738, best valid loss: 0.738
+validating batch: 97/97, current loss: 0.661--------------------------------------------------------------------------
+Epoch: 11, last train loss: 2.492, last valid loss: 0.734, best valid loss: 0.734
+validating batch: 97/97, current loss: 0.819--------------------------------------------------------------------------
+Epoch: 12, last train loss: 2.487, last valid loss: 0.733, best valid loss: 0.733
+validating batch: 97/97, current loss: 0.700--------------------------------------------------------------------------
+Epoch: 13, last train loss: 2.513, last valid loss: 0.730, best valid loss: 0.730
+validating batch: 97/97, current loss: 0.766--------------------------------------------------------------------------
+Epoch: 14, last train loss: 2.466, last valid loss: 0.728, best valid loss: 0.728
+validating batch: 97/97, current loss: 0.860--------------------------------------------------------------------------
+Epoch: 15, last train loss: 2.464, last valid loss: 0.726, best valid loss: 0.726
+validating batch: 97/97, current loss: 0.749--------------------------------------------------------------------------
+Epoch: 16, last train loss: 2.468, last valid loss: 0.722, best valid loss: 0.722
+validating batch: 97/97, current loss: 0.775--------------------------------------------------------------------------
+Epoch: 17, last train loss: 2.446, last valid loss: 0.718, best valid loss: 0.718
+validating batch: 97/97, current loss: 0.874--------------------------------------------------------------------------
+Epoch: 18, last train loss: 2.448, last valid loss: 0.714, best valid loss: 0.714
+validating batch: 97/97, current loss: 0.5834224.000--------------------------------------------------------------------------
+Epoch: 19, last train loss: 1423383.988, last valid loss: 0.691, best valid loss: 0.691
+validating batch: 97/97, current loss: 0.677--------------------------------------------------------------------------
+Epoch: 20, last train loss: 2.357, last valid loss: 0.686, best valid loss: 0.686
+validating batch: 97/97, current loss: 0.862878784.000
+stopping early
+
+
+GPU 8 smooth l1:
+--------------------------------------------------------------------------
+Epoch: 1, last train loss: inf, last valid loss: inf, best valid loss: inf
+validating batch: 97/97, current loss: 0.0682.2970
+--------------------------------------------------------------------------
+Epoch: 2, last train loss: 1327781.065, last valid loss: 0.069, best valid loss: 0.069
+validating batch: 97/97, current loss: 0.060.984
+--------------------------------------------------------------------------
+Epoch: 3, last train loss: 51.834, last valid loss: 0.035, best valid loss: 0.035
+validating batch: 97/97, current loss: 0.046.4088
+--------------------------------------------------------------------------
+Epoch: 4, last train loss: 454.936, last valid loss: 0.028, best valid loss: 0.028
+validating batch: 97/97, current loss: 0.0309.023
+--------------------------------------------------------------------------
+Epoch: 5, last train loss: 239.124, last valid loss: 0.027, best valid loss: 0.027
+validating batch: 97/97, current loss: 0.015
+--------------------------------------------------------------------------
+Epoch: 6, last train loss: 0.049, last valid loss: 0.027, best valid loss: 0.027
+validating batch: 97/97, current loss: 0.025
+--------------------------------------------------------------------------
+Epoch: 7, last train loss: 0.049, last valid loss: 0.028, best valid loss: 0.027
+validating batch: 97/97, current loss: 0.115
+--------------------------------------------------------------------------
+Epoch: 8, last train loss: 0.048, last valid loss: 0.028, best valid loss: 0.027
+validating batch: 97/97, current loss: 0.029
+stopping early
